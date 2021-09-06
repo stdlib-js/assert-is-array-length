@@ -118,6 +118,22 @@ bool = isArrayLength( null );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/assert/is-array`][@stdlib/assert/is-array]: test if a value is an array.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -174,6 +190,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-array-length/main/LICENSE
 
 [mdn-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+<!-- <related-links> -->
+
+[@stdlib/assert/is-array]: https://github.com/stdlib-js/assert-is-array
+
+<!-- </related-links> -->
 
 </section>
 
