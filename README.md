@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-array-length@esm/index.mjs';
+import isArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-array-length@v0.1.0-esm/index.mjs';
 ```
 
 #### isArrayLength( value )
@@ -92,7 +92,7 @@ bool = isArrayLength( null );
 <body>
 <script type="module">
 
-import isArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-array-length@esm/index.mjs';
+import isArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-array-length@v0.1.0-esm/index.mjs';
 
 var bool = isArrayLength( 5 );
 // returns true
