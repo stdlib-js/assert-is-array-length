@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-array-length@deno/mod.js';
+import isArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-array-length@v0.2.1-deno/mod.js';
 ```
 
 #### isArrayLength( value )
@@ -87,7 +87,7 @@ bool = isArrayLength( null );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-array-length@deno/mod.js';
+import isArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-array-length@v0.2.1-deno/mod.js';
 
 var bool = isArrayLength( 5 );
 // returns true
